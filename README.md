@@ -1,4 +1,4 @@
 # daniil-begma
- Portoflio website
+ Portfolio website
  
  Production: https://daniil-begma.com/
